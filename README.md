@@ -1,1 +1,1 @@
-This is a pracitce session to check GIT workflow from Command Line
+This is a pracitce session to check GIT workflow and creating branches from Command Line 
